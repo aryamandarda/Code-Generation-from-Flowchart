@@ -17,24 +17,16 @@ Students often find it challenging to learn programming due to the complexity of
 ## Installation
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/aryamandarda/Code-Generation-from-Flowchart.git
-    ```
-2. Change to the project directory:
-    ```bash
-    cd Code-Generation-from-Flowchart
-    ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
+    ```bash git clone https://github.com/aryamandarda/Code-Generation-from-Flowchart.git```
+3. Change to the project directory:
+    ```bash cd Code-Generation-from-Flowchart```
+4. Install the required dependencies:
+    ```bash pip install -r requirements.txt```
+   
 ## Usage
 
 1. Run the application:
-    ```bash
-    python app.py
-    ```
+    ```bash python app.py```
 2. Upload a flowchart image through the provided UI.
 3. The application will display the generated Python code and its explanation.
 4. Copy the code to your IDE and run it.
