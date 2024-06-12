@@ -1,4 +1,4 @@
-# Code Generation from Flowchart
+# Code Generation from Flowcharts
 
 This project aims to help students with limited coding experience by converting flowchart images into executable Python code using Optical Character Recognition (OCR) and a Large Language Model (LLM). This tool simplifies the process of translating flowchart logic into code, making it easier for beginners to learn programming without getting bogged down by syntax.
 
